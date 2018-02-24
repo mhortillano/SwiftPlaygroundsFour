@@ -2,5 +2,10 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/mariahhortillano/Desktop/SwiftPlaygroundsFour/SwiftPlaygroundFour.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=232&amp;EndingColumnNumber=12&amp;EndingLineNumber=17&amp;StartingColumnNumber=9&amp;StartingLineNumber=17&amp;Timestamp=541147954.6711971"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
